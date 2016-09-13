@@ -1,6 +1,6 @@
 //Made by Nick and CJ
 //Made May 2016
-// This allows buttons and joysticks to be seen as keypresses
+// This allows buttons and joysticks to be seen as keypresses. C++
 #include <Keyboard.h>
 
 //white orange == ground wire. Make sure its connected
