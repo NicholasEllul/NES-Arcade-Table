@@ -7,3 +7,4 @@ Link to project proposal:
 Finalists at the OMMIC Junior Design Competition
   - http://ommic.ca/competitions/junior-design/
 
+![alt tag](https://github.com/Pirates19/NES-Arcade-Table/blob/master/OMMIC.jpg)
