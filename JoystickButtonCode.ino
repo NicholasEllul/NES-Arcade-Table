@@ -125,10 +125,10 @@ void loop() {
   }
 
   if (digitalRead(selectPort) == LOW) {
-    Keyboard.press('p');
+    Keyboard.press('i');
   }
   else {
-    Keyboard.release('p');
+    Keyboard.release('i');
   }
 
 }
